@@ -1,0 +1,117 @@
+{
+  "draw": 1,
+  "recordsTotal": 57,
+  "recordsFiltered": 57,
+  "data": [
+    [
+      "1",
+      "2024-1",
+      "01-27-2024",
+      "Santiago Comm'l Center",
+      "White Pigeon Flour",
+      "25",
+      "₱750",
+      "₱750,000",
+      "Buttons"
+    ],
+    [
+      "1",
+      "2024-1",
+      "01-27-2024",
+      "Santiago Comm'l Center",
+      "White Pigeon Flour",
+      "25",
+      "₱750",
+      "₱750,000",
+      "Action"
+    ],
+    [
+      "1",
+      "2024-1",
+      "01-27-2024",
+      "Santiago Comm'l Center",
+      "White Pigeon Flour",
+      "25",
+      "₱750",
+      "₱750,000",
+      "Action"
+    ],
+    [
+      "1",
+      "2024-1",
+      "01-27-2024",
+      "Santiago Comm'l Center",
+      "White Pigeon Flour",
+      "25",
+      "₱750",
+      "₱750,000",
+      "Action"
+    ],
+    [
+      "1",
+      "2024-1",
+      "01-27-2024",
+      "Santiago Comm'l Center",
+      "White Pigeon Flour",
+      "25",
+      "₱750",
+      "₱750,000",
+      "Action"
+    ],
+    [
+      "1",
+      "2024-1",
+      "01-27-2024",
+      "Santiago Comm'l Center",
+      "White Pigeon Flour",
+      "25",
+      "₱750",
+      "₱750,000",
+      "Action"
+    ],
+    [
+      "1",
+      "2024-1",
+      "01-27-2024",
+      "Santiago Comm'l Center",
+      "White Pigeon Flour",
+      "25",
+      "₱750",
+      "₱750,000",
+      "Action"
+    ],
+    [
+      "1",
+      "2024-1",
+      "01-27-2024",
+      "Santiago Comm'l Center",
+      "White Pigeon Flour",
+      "25",
+      "₱750",
+      "₱750,000",
+      "Action"
+    ],
+    [
+      "1",
+      "2024-1",
+      "01-27-2024",
+      "Santiago Comm'l Center",
+      "White Pigeon Flour",
+      "25",
+      "₱750",
+      "₱750,000",
+      "Action"
+    ],
+    [
+      "1",
+      "2024-1",
+      "01-27-2024",
+      "Santiago Comm'l Center",
+      "White Pigeon Flour",
+      "25",
+      "₱750",
+      "₱750,000",
+      "Action"
+    ]
+  ]
+}

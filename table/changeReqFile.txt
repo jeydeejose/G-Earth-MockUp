@@ -1,0 +1,57 @@
+{
+  "draw": 1,
+  "recordsTotal": 57,
+  "recordsFiltered": 57,
+  "data": [
+    [
+      "1",
+      "2024-1",
+      "₱780",
+      "₱750",
+      "JD Jose",
+      "Joselita Jose",
+      "Approved by sir Robert Feb 2/2024",
+      "buttons"
+    ],
+    [
+      "1",
+      "2024-1",
+      "₱780",
+      "₱750",
+      "JD Jose",
+      "Joselita Jose",
+      "Approved by sir Robert Feb 2/2024",
+      "buttons"
+    ],
+    [
+      "1",
+      "2024-1",
+      "₱780",
+      "₱750",
+      "JD Jose",
+      "Joselita Jose",
+      "Approved by sir Robert Feb 2/2024",
+      "buttons"
+    ],
+    [
+      "1",
+      "2024-1",
+      "₱780",
+      "₱750",
+      "JD Jose",
+      "Joselita Jose",
+      "Approved by sir Robert Feb 2/2024",
+      "buttons"
+    ],
+    [
+      "1",
+      "2024-1",
+      "₱780",
+      "₱750",
+      "JD Jose",
+      "Joselita Jose",
+      "Approved by sir Robert Feb 2/2024",
+      "buttons"
+    ]
+  ]
+}

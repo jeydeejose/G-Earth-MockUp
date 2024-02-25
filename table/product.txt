@@ -1,0 +1,47 @@
+{
+  "draw": 1,
+  "recordsTotal": 57,
+  "recordsFiltered": 57,
+  "data": [
+    [
+      "1",
+      "Bags",
+      "Jose Comm'l Center",
+      "White Pigeon Flour",
+      "₱580",
+      "buttons"
+    ],
+    [
+      "1",
+      "Bags",
+      "Santiago Comm'l Center",
+      "White Pigeon Flour",
+      "₱580",
+      "buttons"
+    ],
+    [
+      "1",
+      "Bags",
+      "Himaya Comm'l Center",
+      "White Pigeon Flour",
+      "₱580",
+      "buttons"
+    ],
+    [
+      "1",
+      "Bags",
+      "Alcaraz Comm'l Center",
+      "White Pigeon Flour",
+      "₱580",
+      "buttons"
+    ],
+    [
+      "1",
+      "Bags",
+      "Martinez Comm'l Center",
+      "White Pigeon Flour",
+      "₱580",
+      "buttons"
+    ]
+  ]
+}

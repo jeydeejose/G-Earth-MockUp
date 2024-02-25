@@ -1,0 +1,47 @@
+{
+  "draw": 1,
+  "recordsTotal": 57,
+  "recordsFiltered": 57,
+  "data": [
+    [
+      "02-25-2024",
+      "2024-1",
+      "Timbol Rice Traders",
+      "BDO Online",
+      "₱750,000",
+      "Action"
+    ],
+    [
+      "02-25-2024",
+      "2024-1",
+      "Timbol Rice Traders",
+      "BDO Online",
+      "₱750,000",
+      "Action"
+    ],
+    [
+      "02-25-2024",
+      "2024-1",
+      "Timbol Rice Traders",
+      "BDO Online",
+      "₱750,000",
+      "Action"
+    ],
+    [
+      "02-25-2024",
+      "2024-1",
+      "Timbol Rice Traders",
+      "BDO Online",
+      "₱750,000",
+      "Action"
+    ],
+    [
+      "02-25-2024",
+      "2024-1",
+      "Timbol Rice Traders",
+      "BDO Online",
+      "₱750,000",
+      "Action"
+    ]
+  ]
+}

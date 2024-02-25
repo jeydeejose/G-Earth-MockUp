@@ -1,0 +1,52 @@
+{
+  "draw": 1,
+  "recordsTotal": 57,
+  "recordsFiltered": 57,
+  "data": [
+    [
+      "1",
+      "SCOMC",
+      "Santiago Comm'l Center",
+      "Mandaluyong City",
+      "000-123-456-789",
+      "₱780",
+      "buttons"
+    ],
+    [
+      "1",
+      "SCOMC",
+      "Santiago Comm'l Center",
+      "Makilala City",
+      "000-123-456-789",
+      "₱780",
+      "buttons"
+    ],
+    [
+      "1",
+      "SCOMC",
+      "Santiago Comm'l Center",
+      "Makati City",
+      "000-123-456-789",
+      "₱780",
+      "buttons"
+    ],
+    [
+      "1",
+      "SCOMC",
+      "Santiago Comm'l Center",
+      "Taguig City",
+      "000-123-456-789",
+      "₱780",
+      "buttons"
+    ],
+    [
+      "1",
+      "SCOMC",
+      "Santiago Comm'l Center",
+      "Batangas City",
+      "000-123-456-789",
+      "₱780",
+      "buttons"
+    ]
+  ]
+}
