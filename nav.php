@@ -15,7 +15,7 @@
             <!-- Nav Item - Dashboard -->
             <li class="nav-item <?php echo stripos($_SERVER['PHP_SELF'], "index") !== FALSE ? "active" : "" ?>">
                 <a class="nav-link" href="index.php">
-                    <i class="fas fa-fw fa-tachometer-alt"></i>
+                    <i class="fas fa-fw fa-chart-line"></i>
                     <span>Dashboard</span></a>
             </li>
 
@@ -29,22 +29,22 @@
 
             <li class="nav-item <?php echo stripos($_SERVER['PHP_SELF'], "deliveryreceipts") !== FALSE ? "active" : "" ?>">
                 <a class="nav-link" href="deliveryreceipts.php">
-                    <i class="fas fa-fw fa-chart-area"></i>
+                    <i class="fas fa-fw fa-chevron-circle-right"></i>
                     <span>Delivery Receipts</span></a>
             </li>
             <li class="nav-item <?php echo stripos($_SERVER['PHP_SELF'], "collections") !== FALSE ? "active" : "" ?>">
                 <a class="nav-link" href="collections.php">
-                    <i class="fas fa-fw fa-chart-area"></i>
+                    <i class="fas fa-fw fa-chevron-circle-right"></i>
                     <span>Collections</span></a>
             </li>
             <li class="nav-item <?php echo stripos($_SERVER['PHP_SELF'], "reports") !== FALSE ? "active" : "" ?>">
                 <a class="nav-link" href="reports.php">
-                    <i class="fas fa-fw fa-chart-area"></i>
+                    <i class="fas fa-fw fa-chevron-circle-right"></i>
                     <span>Reports</span></a>
             </li>
             <li class="nav-item <?php echo stripos($_SERVER['PHP_SELF'], "changerequest") !== FALSE ? "active" : "" ?>">
                 <a class="nav-link" href="changerequest.php">
-                    <i class="fas fa-fw fa-chart-area"></i>
+                    <i class="fas fa-fw fa-chevron-circle-right"></i>
                     <span>Change Requests</span></a>
             </li>
 
@@ -59,13 +59,13 @@
 
             <li class="nav-item <?php echo stripos($_SERVER['PHP_SELF'], "customers") !== FALSE ? "active" : "" ?>">
                 <a class="nav-link" href="customers.php">
-                    <i class="fas fa-fw fa-chart-area"></i>
+                    <i class="fas fa-fw fa-chevron-circle-right"></i>
                     <span>Customers</span></a>
             </li>
 
             <li class="nav-item <?php echo stripos($_SERVER['PHP_SELF'], "products") !== FALSE ? "active" : "" ?>">
                 <a class="nav-link" href="products.php">
-                    <i class="fas fa-fw fa-table"></i>
+                    <i class="fas fa-fw fa-chevron-circle-right"></i>
                     <span>Products</span></a>
             </li>
 
@@ -74,7 +74,7 @@
 
             <li class="nav-item <?php echo stripos($_SERVER['PHP_SELF'], "accounts") !== FALSE ? "active" : "" ?>">
                 <a class="nav-link" href="accounts.php">
-                    <i class="fas fa-fw fa-table"></i>
+                    <i class="fas fa-fw fa-users"></i>
                     <span>Accounts</span></a>
             </li>
 
