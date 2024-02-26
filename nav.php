@@ -466,8 +466,9 @@
                     <div class="col-sm-8">
                         <select class="form-control" required>
                             <option value="" selected>- Select -</option>
-                            <option value="">DR # 2024-1</option>
-                            <option value="">DR # 2024-2</option>
+                            <option value="">Superadmin</option>
+                            <option value="">Admin</option>
+                            <option value="">Production user</option>
                         </select>
                     </div>
                 </div>
@@ -488,8 +489,10 @@
                     <div class="col-sm-8">
                         <select class="form-control" required>
                             <option value="" selected>- Select -</option>
-                            <option value="">DR # 2024-1</option>
-                            <option value="">DR # 2024-2</option>
+                            <option value="">Manager</option>
+                            <option value="">Accounting staff</option>
+                            <option value="">Office admin</option>
+                            <option value="">Production staff</option>
                         </select>
                     </div>
                 </div>

@@ -9,43 +9,43 @@
       "Santiago Comm'l Center",
       "Mandaluyong City",
       "000-123-456-789",
-      "₱780",
+      "₱750",
       "buttons"
     ],
     [
-      "1",
-      "SCOMC",
-      "Alcaraz Comm'l Center",
+      "2",
+      "SPL",
+      "Summit Plaza",
       "Makilala City",
       "000-123-456-789",
-      "₱780",
+      "₱600",
       "buttons"
     ],
     [
-      "1",
-      "SCOMC",
-      "Jose Comm'l Center",
+      "3",
+      "HBP",
+      "Horizon Business Park",
       "Makati City",
       "000-123-456-789",
       "₱780",
       "buttons"
     ],
     [
-      "1",
+      "4",
       "SCOMC",
-      "Rizal Comm'l Center",
+      "Taste Haven Distribution",
       "Taguig City",
       "000-123-456-789",
-      "₱780",
+      "₱680",
       "buttons"
     ],
     [
-      "1",
+      "5",
       "SCOMC",
-      "Bonifacio Comm'l Center",
+      "Culinary Cache Warehouse",
       "Batangas City",
       "000-123-456-789",
-      "₱780",
+      "₱730",
       "buttons"
     ]
   ]
