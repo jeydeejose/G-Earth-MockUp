@@ -6,41 +6,41 @@
     [
       "1",
       "Bags",
-      "Jose Comm'l Center",
-      "White Pigeon Flour",
-      "₱580",
-      "buttons"
-    ],
-    [
-      "1",
-      "Bags",
       "Santiago Comm'l Center",
-      "Red Pigeon Flour",
-      "₱580",
+      "White Pigeon Flour",
+      "₱750",
       "buttons"
     ],
     [
-      "1",
+      "2",
       "Bags",
-      "Himaya Comm'l Center",
+      "Summit Plaza",
+      "Whole Wheat Flour",
+      "₱600",
+      "buttons"
+    ],
+    [
+      "3",
+      "Bags",
+      "Horizon Business Park",
       "Black Pigeon Flour",
-      "₱580",
+      "₱780",
       "buttons"
     ],
     [
-      "1",
+      "4",
       "Bags",
-      "Alcaraz Comm'l Center",
-      "Yellow Pigeon Flour",
-      "₱580",
+      "Taste Haven Distribution",
+      "Buckwheat Flour",
+      "₱680",
       "buttons"
     ],
     [
-      "1",
+      "5",
       "Bags",
-      "Martinez Comm'l Center",
-      "Gray Pigeon Flour",
-      "₱580",
+      "Culinary Cache Warehouse",
+      "Rice Flour",
+      "₱730",
       "buttons"
     ]
   ]

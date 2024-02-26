@@ -28,6 +28,13 @@
             ],
             search: {
             return: true
+            },
+                createdRow: function (row, data, dataIndex) {
+                    if (dataIndex === 0) {
+                $(row).find('td:eq(8)').css('background-color', '#FFCCCB');
+                    } else if (dataIndex === 1) {
+                        $(row).find('td:eq(8)').css('background-color', '#FFCCCB');
+                    }
             }
         });
 
