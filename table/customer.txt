@@ -15,7 +15,7 @@
     [
       "1",
       "SCOMC",
-      "Santiago Comm'l Center",
+      "Alcaraz Comm'l Center",
       "Makilala City",
       "000-123-456-789",
       "₱780",
@@ -24,7 +24,7 @@
     [
       "1",
       "SCOMC",
-      "Santiago Comm'l Center",
+      "Jose Comm'l Center",
       "Makati City",
       "000-123-456-789",
       "₱780",
@@ -33,7 +33,7 @@
     [
       "1",
       "SCOMC",
-      "Santiago Comm'l Center",
+      "Rizal Comm'l Center",
       "Taguig City",
       "000-123-456-789",
       "₱780",
@@ -42,7 +42,7 @@
     [
       "1",
       "SCOMC",
-      "Santiago Comm'l Center",
+      "Bonifacio Comm'l Center",
       "Batangas City",
       "000-123-456-789",
       "₱780",

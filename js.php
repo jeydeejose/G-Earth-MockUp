@@ -100,12 +100,9 @@
             return: true
             }
         });
-
+      
         table.on('click', 'button', function (e) {
             let data = table.row(e.target.closest('tr')).data();
             alert(data[0]);
         });
-
-
-
     </script>
