@@ -22,7 +22,7 @@
             columnDefs: [
                 {
                     data: null,
-                    defaultContent: '<button class="btn btn-primary btn-sm"><i class="fas fa-fw fa-eye"></i></button> <button class="btn btn-primary btn-sm"><i class="fas fa-fw fa-pen"></i></button> <button class="btn btn-primary btn-sm" id="printdr"><i class="fas fa-fw fa-print"></i></button>',
+                    defaultContent: '<button class="btn btn-primary btn-sm"><i class="fas fa-fw fa-eye"></i></button> <button class="btn btn-primary btn-sm"><i class="fas fa-fw fa-pen"></i></button> <a href="print.php" target="_blank"><button class="btn btn-primary btn-sm" id="printdr"><i class="fas fa-fw fa-print"></i></button></a>',
                     targets: -1
                 }
             ],
