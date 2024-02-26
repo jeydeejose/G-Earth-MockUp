@@ -24,5 +24,5 @@
         new DataTable('#accountTable', {
             ajax: 'table/account.txt'
         });
-
     </script>
+

@@ -1,4 +1,4 @@
-         <!-- Sidebar -->
+<!-- Sidebar -->
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
             <!-- Sidebar - Brand -->
@@ -129,23 +129,45 @@
                     </div>
                 </div>
                 <div class="form-group">
-                    <label for="gender" class="col-sm-4 control-label">DR #</label>
+                    <label class="col-sm-4 control-label">DR #</label>
                     <div class="col-sm-8">
-                        <select class="form-control" required>
-                            <option value="" selected>- Select -</option>
-                            <option value="">DR # 2024-1</option>
-                            <option value="">DR # 2024-2</option>
-                        </select>
+                        <input type="text" class="form-control" name="test" required>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="gender" class="col-sm-4 control-label">Customer</label>
+                    <div class="col-sm-8">
+                        <?php 
+                            $jsonString = file_get_contents('table/customer.txt');
+                            $data = json_decode($jsonString, true);
+                            $options = array_column($data['data'], 2);
+                            echo '<select class="form-control">';
+                            foreach ($options as $option) {
+                                echo "<option value=\"$option\">$option</option>";
+                            }
+                            echo '</select>';
+                        ?>
                     </div>
                 </div>
                 <div class="form-group">
                     <label for="gender" class="col-sm-4 control-label">Product</label>
                     <div class="col-sm-8">
-                        <select class="form-control" required>
-                            <option value="" selected>- Select -</option>
-                            <option value="">DR # 2024-1</option>
-                            <option value="">DR # 2024-2</option>
-                        </select>
+                        <?php 
+                            $jsonString = file_get_contents('table/product.txt');
+                            $data = json_decode($jsonString, true);
+                            $options = array_column($data['data'], 3);
+                            echo '<select class="form-control">';
+                            foreach ($options as $option) {
+                                echo "<option value=\"$option\">$option</option>";
+                            }
+                            echo '</select>';
+                        ?>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-sm-4 control-label">Product Price</label>
+                    <div class="col-sm-8">
+                        <input type="text" class="form-control" name="test" required>
                     </div>
                 </div>
                 <div class="form-group">
@@ -167,7 +189,7 @@
                     </div>
                 </div>
                 <div class="form-group">
-                    <label class="col-sm-4 control-label">Truck #</label>
+                    <label class="col-sm-4 control-label">Truck Plate #</label>
                     <div class="col-sm-8">
                         <input type="text" class="form-control" name="test" required>
                     </div>
@@ -175,41 +197,61 @@
                 <div class="form-group">
                     <label for="gender" class="col-sm-4 control-label">Approved by</label>
                     <div class="col-sm-8">
-                        <select class="form-control" required>
-                            <option value="" selected>- Select -</option>
-                            <option value="">DR # 2024-1</option>
-                            <option value="">DR # 2024-2</option>
-                        </select>
+                        <?php 
+                            $jsonString = file_get_contents('table/account.txt');
+                            $data = json_decode($jsonString, true);
+                            $options = array_column($data['data'], 1);
+                            echo '<select class="form-control">';
+                            foreach ($options as $option) {
+                                echo "<option value=\"$option\">$option</option>";
+                            }
+                            echo '</select>';
+                        ?>
                     </div>
                 </div>
                 <div class="form-group">
                     <label for="gender" class="col-sm-4 control-label">Checked by</label>
                     <div class="col-sm-8">
-                        <select class="form-control" required>
-                            <option value="" selected>- Select -</option>
-                            <option value="">DR # 2024-1</option>
-                            <option value="">DR # 2024-2</option>
-                        </select>
+                        <?php 
+                            $jsonString = file_get_contents('table/account.txt');
+                            $data = json_decode($jsonString, true);
+                            $options = array_column($data['data'], 1);
+                            echo '<select class="form-control">';
+                            foreach ($options as $option) {
+                                echo "<option value=\"$option\">$option</option>";
+                            }
+                            echo '</select>';
+                        ?>
                     </div>
                 </div>
                 <div class="form-group">
                     <label for="gender" class="col-sm-4 control-label">Delivered by</label>
                     <div class="col-sm-8">
-                        <select class="form-control" required>
-                            <option value="" selected>- Select -</option>
-                            <option value="">DR # 2024-1</option>
-                            <option value="">DR # 2024-2</option>
-                        </select>
+                        <?php 
+                            $jsonString = file_get_contents('table/account.txt');
+                            $data = json_decode($jsonString, true);
+                            $options = array_column($data['data'], 1);
+                            echo '<select class="form-control">';
+                            foreach ($options as $option) {
+                                echo "<option value=\"$option\">$option</option>";
+                            }
+                            echo '</select>';
+                        ?>
                     </div>
                 </div>
                 <div class="form-group">
                     <label for="gender" class="col-sm-4 control-label">Acknowledged by</label>
                     <div class="col-sm-8">
-                        <select class="form-control" required>
-                            <option value="" selected>- Select -</option>
-                            <option value="">DR # 2024-1</option>
-                            <option value="">DR # 2024-2</option>
-                        </select>
+                        <?php 
+                            $jsonString = file_get_contents('table/account.txt');
+                            $data = json_decode($jsonString, true);
+                            $options = array_column($data['data'], 1);
+                            echo '<select class="form-control">';
+                            foreach ($options as $option) {
+                                echo "<option value=\"$option\">$option</option>";
+                            }
+                            echo '</select>';
+                        ?>
                     </div>
                 </div>
             </div>
@@ -242,13 +284,19 @@
                     </div>
                 </div>
                 <div class="form-group">
-                    <label for="gender" class="col-sm-4 control-label">DR #</label>
+                    <label for="" class="col-sm-4 control-label">DR #</label>
                     <div class="col-sm-8">
-                        <select class="form-control" required>
-                            <option value="" selected>- Select -</option>
-                            <option value="">DR # 2024-1</option>
-                            <option value="">DR # 2024-2</option>
-                        </select>
+                        <?php 
+                            $jsonString = file_get_contents('table/dr.txt');
+                            $data = json_decode($jsonString, true);
+                            $options = array_column($data['data'], 1);
+
+                            echo '<select class="form-control">';
+                            foreach ($options as $option) {
+                                echo "<option value=\"$option\">$option</option>";
+                            }
+                            echo '</select>';
+                        ?>                                                
                     </div>
                 </div>
                 <div class="form-group">
@@ -272,11 +320,16 @@
                 <div class="form-group">
                     <label for="gender" class="col-sm-4 control-label">Acknowledged by</label>
                     <div class="col-sm-8">
-                        <select class="form-control" required>
-                            <option value="" selected>- Select -</option>
-                            <option value="">DR # 2024-1</option>
-                            <option value="">DR # 2024-2</option>
-                        </select>
+                        <?php 
+                            $jsonString = file_get_contents('table/account.txt');
+                            $data = json_decode($jsonString, true);
+                            $options = array_column($data['data'], 1);
+                            echo '<select class="form-control">';
+                            foreach ($options as $option) {
+                                echo "<option value=\"$option\">$option</option>";
+                            }
+                            echo '</select>';
+                        ?>
                     </div>
                 </div>
             </div>
