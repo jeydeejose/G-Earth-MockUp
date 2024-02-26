@@ -18,6 +18,7 @@
     <link href="css/sb-admin-2.min.css" rel="stylesheet">
 
     <link href="https://cdn.datatables.net/2.0.0/css/dataTables.dataTables.css" rel="stylesheet" type="text/css">
+
 </head>
 
 <body id="page-top">
@@ -175,6 +176,7 @@
                                                         <th>Quantity</th>
                                                         <th>Amount</th>
                                                         <th>Total</th>
+                                                        <th>Aging</th>
                                                         <th>Action</th>
                                                     </tr>
                                                 </thead>
@@ -188,6 +190,7 @@
                                                         <th>Quantity</th>
                                                         <th>Amount</th>
                                                         <th>Total</th>
+                                                        <th>Aging</th>
                                                         <th>Action</th>
                                                     </tr>
                                                 </tfoot>
