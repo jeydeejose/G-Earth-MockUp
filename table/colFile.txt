@@ -4,43 +4,43 @@
   "recordsFiltered": 57,
   "data": [
     [
-      "02-25-2024",
-      "2024-1",
+      "Dec-20-2023",
+      "2024-4",
       "Timbol Rice Traders",
       "BDO Online",
       "₱750,000",
       "Action"
     ],
     [
-      "02-25-2024",
-      "2024-1",
-      "Timbol Rice Traders",
-      "BDO Online",
-      "₱750,000",
+      "Feb-05-2023",
+      "2024-3",
+      "Horizon Business Park",
+      "Cash Payment",
+      "₱780,000",
       "Action"
     ],
     [
-      "02-25-2024",
-      "2024-1",
-      "Timbol Rice Traders",
-      "BDO Online",
-      "₱750,000",
+      "Jun-25-2023",
+      "2024-5",
+      "Culinary Cache Warehouse",
+      "Cash Payment",
+      "₱730,000",
       "Action"
     ],
     [
-      "02-25-2024",
+      "Jan-25-2024",
       "2024-1",
       "Timbol Rice Traders",
       "BDO Online",
-      "₱750,000",
+      "₱780,000",
       "Action"
     ],
     [
-      "02-25-2024",
-      "2024-1",
-      "Timbol Rice Traders",
-      "BDO Online",
-      "₱750,000",
+      "Nov-25-2024",
+      "2024-2",
+      "Summit Plaza",
+      "Check Payment",
+      "₱600,000",
       "Action"
     ]
   ]

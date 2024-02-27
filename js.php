@@ -22,7 +22,7 @@
             columnDefs: [
                 {
                     data: null,
-                    defaultContent: '<button class="btn btn-primary btn-sm"><i class="fas fa-fw fa-eye"></i></button> <button class="btn btn-primary btn-sm"><i class="fas fa-fw fa-pen"></i></button> <a href="print.php" target="_blank"><button class="btn btn-primary btn-sm" id="printdr"><i class="fas fa-fw fa-print"></i></button></a>',
+                    defaultContent: '<button class="btn btn-primary btn-sm" style="margin-right:3px;"><i class="fas fa-fw fa-eye"></i></button> <button class="btn btn-success btn-sm" style="margin-right:3px;"><i class="fas fa-fw fa-pen"></i></button> <button class="btn btn-info btn-sm" id="printdr"><i class="fas fa-fw fa-print"></i></button>',
                     targets: -1
                 }
             ],
@@ -35,6 +35,11 @@
                     } else if (dataIndex === 1) {
                         $(row).find('td:eq(8)').css('background-color', '#FFCCCB');
                     }
+            },
+                createdRow: function (row, data, dataIndex) {
+                    $(row).find('td:eq(9)').css({
+                        'display': 'flex'
+                    });
             }
         });
 
