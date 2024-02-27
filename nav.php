@@ -1,3 +1,5 @@
+<title>G-Earth AMIS</title>
+
 <!-- Sidebar -->
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
